@@ -18,7 +18,7 @@ This project was generated with Node.js version 8.11.3.
 2. git init
 ```
 ```
-3. git remote add origin https://github.com/laffingDragons/Issue-Tracking-Tool.git
+3. git remote add origin https://github.com/laffingDragons/Price-Tracking-Node.js.git
 ```
 ```
 4. git pull origin master

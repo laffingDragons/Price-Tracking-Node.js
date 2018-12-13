@@ -1,10 +1,8 @@
-# Issue Tracking Tool
+# Price Tracking 
 This project was generated with Node.js version 8.11.3.
 
 ## Getting Started
-### Documentation
-#### [Apidoc](http://tracking-apidocs.akshaypatil.online/)
-#### [Eventdoc](http://tracking-eventdocs.akshaypatil.online/)       
+      
 
 ### Prerequisites
 
@@ -43,8 +41,7 @@ appConfig.db = {
   }
 appConfig.apiVersion = '/api/v1';
 
-nodeMailer.email="<Your Email for sending mails>";
-nodeMailer.password = "<Your Password>";
+
 ```
 9. Save changes.
 10. Goto root directory.
@@ -58,7 +55,7 @@ nodeMailer.password = "<Your Password>";
 
 ## Deployed at
 
-`http://tracking-node.akshaypatil.online/`
+`http://price-node.akshaypatil.online/`
 
 ## Authors
 

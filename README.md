@@ -8,7 +8,7 @@ This project was generated with Node.js version 8.11.3.
 
 1. [Node.js](https://nodejs.org/en/download/)
 2. [MongoDb](https://www.mongodb.com/download-center?jmp=nav#community)
-3. Redis server
+
 
 
 ### Installing
